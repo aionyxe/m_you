@@ -1,26 +1,86 @@
 [
   {
-    "name": "Toyota Rock Car",
-    "author": "JC Falcon",
-    "url": "https://images.unsplash.com/photo-1564844159766-f1565806300b?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1564844159766-f1565806300b?ixlib=rb-1.2.1&q=80&w=200"
+    "name": "my_wall1",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/my_wall1.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/my_wall1_thumb.png"
   },
   {
-    "name": "Tasty Fruit",
-    "author": "Alexandra Kikot",
-    "url": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-1.2.1&q=80&w=200"
+    "name": "my_wall2",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/my_wall2.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/my_wall2_thumb.png"
   },
   {
-    "name": "Coral Coast",
-    "author": "Seaside Feel",
-    "url": "https://images.unsplash.com/photo-1564639566047-dc4a1b86a90f?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1564639566047-dc4a1b86a90f?ixlib=rb-1.2.1&q=80&w=200"
+    "name": "my_wall3",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/my_wall3.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/my_wall3_thumb.png"
   },
   {
-    "name": "Duotone Dahlias",
-    "author": "Annie Spratt",
-    "url": "https://images.unsplash.com/photo-1513682322455-ea8b2d81d418?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1513682322455-ea8b2d81d418?ixlib=rb-1.2.1&q=80&w=200"
+    "name": "my_wall4",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/my_wall4.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/my_wall4_thumb.png"
+  },
+  {
+    "name": "screenshot1",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/screenshot1.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/screenshot1_thumb.png"
+  },
+  {
+    "name": "wall1",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall1.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall1_thumb.png"
+  },
+  {
+    "name": "wall2",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall2.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall2_thumb.png"
+  },
+  {
+    "name": "wall3",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall3.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall3_thumb.png"
+  },
+  {
+    "name": "wall4",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall4.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall4_thumb.png"
+  },
+  {
+    "name": "wall5",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall5.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall5_thumb.png"
+  },
+  {
+    "name": "wall6",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall6.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall6_thumb.png"
+  },
+  {
+    "name": "wall7",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall7.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall7_thumb.png"
+  },
+  {
+    "name": "wall8",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall8.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall8_thumb.png"
+  },
+  {
+    "name": "wall9",
+    "author": "Aionyxe",
+    "url": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall9.png",
+    "thumbUrl": "https://raw.githubusercontent.com/aionyxe/m_you/refs/heads/main/walls/wall9_thumb.png"
   }
 ]
